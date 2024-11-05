@@ -1,0 +1,2 @@
+# sybase
+Sybase scripts
