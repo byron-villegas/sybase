@@ -10,9 +10,10 @@ Reports information about a particular group or about all groups in the current 
 |------------|----------|
 | public     | 0        |
 
-with specific group name
+With specific group name
 
 | Group_name | Group_id | Users_in_group | Userid |
+|------------|----------|----------------|--------|
 | public     | 0        | dbo            | 1      |
 
 ### sp_helprotect
